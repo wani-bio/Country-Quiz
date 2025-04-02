@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Country Quiz</string>
+
+    <!-- Result screen messages -->
+    <string name="quiz_score_summary">🎉 You scored %1$d out of 6!</string>
+    <string name="answer_correct">• %1$s — Your answer: %2$s ✅</string>
+    <string name="answer_wrong">• %1$s — Your answer: %2$s ❌ (Correct: %3$s)</string>
+</resources>
